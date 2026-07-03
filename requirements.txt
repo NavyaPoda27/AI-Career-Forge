@@ -1,0 +1,10 @@
+streamlit
+groq
+sentence-transformers
+scikit-learn
+pdfplumber
+python-docx
+python-dotenv
+spacy
+torch
+torchvision
