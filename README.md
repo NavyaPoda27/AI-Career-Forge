@@ -1,4 +1,4 @@
-# 🚀 CareerForge – AI-Powered Career Assistant
+# CareerForge – AI-Powered Career Assistant
 
 CareerForge is an AI-powered career assistant that helps job seekers analyze resumes, match them with job descriptions, rewrite resumes for ATS optimization, and generate personalized cover letters using Large Language Models (LLMs).
 
@@ -7,35 +7,35 @@ CareerForge is an AI-powered career assistant that helps job seekers analyze res
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🌐 Live Demo
+## Live Demo
 🔗 https://ai-careerforge.streamlit.app/
 
-## 📂 GitHub Repository
+## GitHub Repository
 🔗 https://github.com/NavyaPoda27/AI-Career-Forge
 
 ---
 
-## ✨ Features
+## Features
 
-- 📊 **Resume Analyzer**
+- **Resume Analyzer**
   - Extracts skills, education, and experience from uploaded resumes
   - Provides AI-powered resume insights
 
-- 🎯 **Job Matcher**
+- **Job Matcher**
   - Matches resumes with job descriptions
   - Calculates similarity score
   - Identifies missing skills
 
-- ✍️ **Resume Rewriter**
+- **Resume Rewriter**
   - Rewrites resume content to better match job requirements
   - Improves ATS compatibility
 
-- 💌 **Cover Letter Generator**
+- **Cover Letter Generator**
   - Generates personalized cover letters based on resume and job description
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -48,7 +48,7 @@ CareerForge is an AI-powered career assistant that helps job seekers analyze res
 
 ---
 
-## 🛠️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/NavyaPoda27/AI-Career-Forge.git
@@ -63,7 +63,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AI-Career-Forge/
@@ -81,7 +81,7 @@ AI-Career-Forge/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 <img width="1913" height="1085" alt="Screenshot 2026-07-03 162638" src="https://github.com/user-attachments/assets/ed886af1-4c53-4fec-80e4-72540382490a" />
@@ -91,7 +91,7 @@ AI-Career-Forge/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - User authentication
 - Resume history
